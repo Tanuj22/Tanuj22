@@ -4,9 +4,9 @@
 **Tanuj22/Tanuj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m a Full Stack Web Developer.
+- 🔭 I’m a Full Stack Developer and a open source contributor. 
 - 👯 I’m looking to collaborate on fun and exciting ideas.
--  Education: Computer Science at IIT Jodhpur, India
+- :briefcase: Education: Computer Science and Engineering at IIT Jodhpur, India
 - 📫 Reach out to me at: tanujagarwal22@gmail.com
 
 
